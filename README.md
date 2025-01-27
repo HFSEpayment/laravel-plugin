@@ -47,21 +47,21 @@ For more information visit the official [docs](https://epayment.kz/docs)
 | `env`                      |   yes    |         | Either `test` or `production`               |
 | `client_id`                |   yes    |         |  |
 | `client_secret`            |   yes    |         |  |
-| `secret_hash`              |   yes    |         | 
-| `terminal`                 |   yes    |         |
-| `invoiceId`                |   yes    |         |
-| `amount`                   |   yes    |         |
-| `backLink`                 |   yes    |         |
-| `failureBackLink`          |   yes    |         |
-| `postLink`                 |   yes    |         |
-| `failurePostLink`          |   yes    |         |
-| `currency`                 |    no    | `"KZT"` |
-| `language`                 |    no    | `"rus"` |
-| `description`              |    no    |  `""`   |
-| `accountId`                |    no    |  `""`   |
-| `telephone`                |    no    |  `""`   |
-| `email`                    |    no    |  `""`   |
-| More additional properties |    no    | `null`  | If you need to send any property you can add it as a property of array
+| `secret_hash`              |   yes    |         | |
+| `terminal`                 |   yes    |         | |
+| `invoiceId`                |   yes    |         | |
+| `amount`                   |   yes    |         | |
+| `backLink`                 |   yes    |         | |
+| `failureBackLink`          |   yes    |         | |
+| `postLink`                 |   yes    |         | |
+| `failurePostLink`          |   yes    |         | |
+| `currency`                 |    no    | `"KZT"` | |
+| `language`                 |    no    | `"rus"` | |
+| `description`              |    no    |  `""`   | |
+| `accountId`                |    no    |  `""`   | |
+| `telephone`                |    no    |  `""`   | |
+| `email`                    |    no    |  `""`   | |
+| More additional properties |    no    | `null`  | If you need to send any property you can add it as a property of array |
 
 ## License
 
