@@ -1,17 +1,20 @@
 {
-    "name": "azamattaizhan/laravel-plugin",
-    "description": "Class for payment gateway",
+    "name": "hfsepayment/laravel-plugin",
+    "description": "Epay payment gateway class for Laravel",
     "type": "composer-plugin",
+    "keywords": ["laravel","epay","payment"],
+    "homepage": "https://github.com/HFSEpayment/laravel-plugin",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "HFSEpayment\\LaravelPlugin\\": "src/"
+            "HFSEpayment\\": "src/"
         }
     },
     "authors": [
         {
             "name": "Taizhan Azamat",
-            "email": "azamat.taijan@gmail.com"
+            "email": "azamat.taijan@gmail.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "stable",

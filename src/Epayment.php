@@ -1,5 +1,5 @@
 <?php
-namespace HFSEpayment\LaravelPlugin;
+namespace HFSEpayment;
 
 class Epayment
 {
