@@ -1,0 +1,19 @@
+{
+    "name": "azamattaizhan/laravel-plugin",
+    "description": "Class for payment gateway",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HFSEpayment\\LaravelPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Taizhan Azamat",
+            "email": "azamat.taijan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
