@@ -1,7 +1,7 @@
 {
     "name": "hfsepayment/laravel-plugin",
     "description": "Epay payment gateway class for Laravel",
-    "type": "composer-plugin",
+    "type": "library",
     "keywords": ["laravel","epay","payment"],
     "homepage": "https://github.com/HFSEpayment/laravel-plugin",
     "license": "MIT",
