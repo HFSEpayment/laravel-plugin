@@ -1,5 +1,6 @@
 <?php
 namespace HFSEpayment;
+use Exception;
 
 class Epayment
 {
