@@ -105,7 +105,7 @@ class Epayment
     private function setDefaultValues(&$args) {
         $defaultProperties = [
             'currency' => 'KZT',
-            'language' => 'RU',
+            'language' => 'rus',
             'description' => '',
             'accountId' => '',
             'telephone' => '',
